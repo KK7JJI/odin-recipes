@@ -13,7 +13,11 @@
 #
 # Images:
 # lasagna.png - Google AI Studio, prompt "make an image of lasagna"
-#
+# hash.png - Google AI Studio, prompt "make an image of breakfast hash in a bowl"
+
 # The lasagna recipe detais were produced using Microsoft Copilot,
 # prompt: "Give me a list of steps to make lasagna."
+#
+# The hash recipe details were produced using Microsoft Copilot,
+# prompt: "Give me a list of steps to make breakfast hash."
 #
