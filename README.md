@@ -12,9 +12,20 @@
 
 # So far I've setup a new git repsitory for the project "odin-recipes"
 # Cloned the project
-# Added files and folders to the project
+# Added files and folders to the project (cli commands)
 # Made a couple of git commits after staging changes.
 # Added html boilerplate language to each of the .html files in the project.
+
+# Practiced usng a number of html tags including:
+# - headings
+# - anchors
+# - list (ordered and unordered)
+# - images (stored locally)
+
+# Practiced using relative paths to locate resources
+# Practiced commit functions and updated the modified project back to GitHub.
+
+# Image and Recipe references:
 
 # Images:
 # lasagna.png - Google AI Studio, prompt "make an image of lasagna"
