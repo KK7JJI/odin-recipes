@@ -1,6 +1,6 @@
 # odin-recipes
-# 
-# This is the odin project "Project:Recipes"
+ 
+## This is the odin project "Project:Recipes"
  
  https://www.theodinproject.com/lessons/foundations-recipes
 
@@ -8,7 +8,7 @@
  all recipes are linked to the index.html page.
 
 
-# Initial project setup notes
+## Initial project setup notes
 
  So far I've setup a new git repsitory for the project "odin-recipes"
  - Cloned the project
@@ -16,7 +16,7 @@
  - Made a couple of git commits after staging changes.
  - Added html boilerplate language to each of the .html files in the project.
 
-# Project Concepts
+## Project Concepts
 
  Practiced usng a number of html tags including:
  - headings
@@ -27,16 +27,16 @@
  Practiced using relative paths to locate resources
  Practiced commit functions and updated the modified project back to GitHub.
 
-# Image and Recipe references:
+## Image and Recipe references:
 
- ## Images:
+ ### Images:
  - lasagna.png - Google AI Studio, prompt "make an image of lasagna"
  - hash.png - Google AI Studio, prompt "make an image of breakfast hash in a bowl"
  - smoothie.png - Google AI Studio, prompt "make an image of a smoothie"
  - pear-salad.png - Google AI Studio, prompt "make an image of a pear salad"
  - apple-pie.png - Google AI Studio, prompt "make an image of a slice of apple pie"
 
-## Recipies:
+### Recipies:
  The lasagna recipe detais were produced using Microsoft Copilot,
  prompt: "Give me a list of steps to make lasagna."
 
@@ -52,11 +52,11 @@
  The apple pie recipe details were produced using Microsoft Copilot,
  prompt: "give me a list of steps to make an apple pie"
 
-# Maintenance
+## Maintenance
 
   The README.md file was modified to correct the use of github markdown syntax (previously all lines were first level headings)
 
-# Comments
+## Comments
 
  Note: The original project called for a total of 3 recipes yet I added 5
  to mine for a little more practice.
