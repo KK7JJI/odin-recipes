@@ -5,6 +5,7 @@
 # https://www.theodinproject.com/lessons/foundations-recipes
 #
 # The project involves building a small website which shows you several recipies.
+# all recipes are linked to the index.html page.
 
 
 # Initial project setup notes
