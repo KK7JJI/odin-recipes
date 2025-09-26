@@ -38,3 +38,6 @@
 #
 # The apple pie recipe details were produced using Microsoft Copilot,
 # prompt: "give me a list of steps to make an apple pie"
+
+# Note: The original project called for a total of 3 recipes yet I added 5
+# to mine for a little more practice.
