@@ -19,6 +19,7 @@
 # lasagna.png - Google AI Studio, prompt "make an image of lasagna"
 # hash.png - Google AI Studio, prompt "make an image of breakfast hash in a bowl"
 # smoothie.png - Google AI Studio, prompt "make an image of a smoothie"
+# pear-salad.png - Google AI Studio, prompt "make an image of a pear salad"
 
 # Recipies:
 # The lasagna recipe detais were produced using Microsoft Copilot,
@@ -29,3 +30,6 @@
 #
 # The smoothie recipe details were produced using Microsoft Copilot,
 # prompt: "give me a list of steps to make a smoothie"
+#
+# The pear salad recipe details were produced using Microsoft Copilot,
+# prompt: "give me a list of steps to make a pear salad"
